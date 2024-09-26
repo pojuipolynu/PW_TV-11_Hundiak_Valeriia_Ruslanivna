@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/input_hp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/voden" />
+
+    <EditText
+        android:id="@+id/input_cp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/vuhletz" />
+
+    <EditText
+        android:id="@+id/input_sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/sirka" />
+
+    <EditText
+        android:id="@+id/input_np"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/azot"
+        android:visibility="gone" />
+
+    <EditText
+        android:id="@+id/input_op"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/o2" />
+
+    <EditText
+        android:id="@+id/input_wp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/voloha"/>
+
+    <EditText
+        android:id="@+id/input_ap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/zola" />
+
+
+    <EditText
+        android:id="@+id/input_q"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/teplota_zhoraniia"
+        android:visibility="gone" />
+
+    <EditText
+        android:id="@+id/input_venadii"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/vernadii"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/button_composition"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/composition" />
+
+    <Button
+        android:id="@+id/button_recount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/recount" />
+
+    <Button
+        android:id="@+id/button_calculate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/enter"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/button_change_inputs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/change_inputs"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/result"
+        android:visibility="gone" />
+</LinearLayout>
