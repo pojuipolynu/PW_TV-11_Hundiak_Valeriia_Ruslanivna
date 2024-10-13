@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">physics_app</string>
+    <string name="voden">Водень %</string>
+    <string name="sirka">Сірка %</string>
+    <string name="voloha">Волога %</string>
+    <string name="vuhletz">Вуглець %</string>
+    <string name="azot">Азот %</string>
+    <string name="o2">Кисень %</string>
+    <string name="zola">Зола %</string>
+    <string name="teplota_zhoraniia">Нижча теплота згорання мазуту</string>
+    <string name="vernadii">Вміст вернадію</string>
+    <string name="composition">Cклад сухої та горючої маси палива та нижчої теплоти згоряння</string>
+    <string name="recount">Елементарний склад, нижча теплота згоряння мазуту -> робоча маса для
+        складу горючої маси мазуту</string>
+    <string name="enter">Розрахувати</string>
+    <string name="change_inputs">Змінити дані</string>
+    <string name="result">Результат обрахунків</string>
+</resources>
