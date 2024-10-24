@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mobile calculator</string>
+    <string name="result">Результат обрахунків</string>
+    <string name="coal">Маса вугілля</string>
+    <string name="mazut">Маса мазуту</string>
+    <string name="gas">Об.єм газу</string>
+    <string name="q">Нижча теплота згорання вугілля</string>
+    <string name="data">Введіть дані</string>
+    <string name="calculate">Розрахувати</string>
+    <string name="changeinputs">Змінити дані</string>
+</resources>
