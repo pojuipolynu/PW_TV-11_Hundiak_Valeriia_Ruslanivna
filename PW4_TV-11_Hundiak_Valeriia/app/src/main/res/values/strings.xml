@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PW4</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_label">Категорії</string>
+    <string name="calculate_cables">Вибрати кабелі</string>
+    <string name="calculate_kz1">Визначити струми КЗ(на шинах)</string>
+    <string name="calculate_kz2">Визначити струми КЗ(для підстанції ХПнЕМ)</string>
+    <string name="input_u">Напруга</string>
+    <string name="input_kz">Струм</string>
+    <string name="input_time">Фіктивний час виконання</string>
+    <string name="input_sm">Розрахункове навантаження</string>
+    <string name="input_tm">Тм</string>
+    <string name="input_kzu">Потужність КЗ</string>
+    <string name="input_rh">Rh</string>
+    <string name="input_xh">Хн</string>
+    <string name="input_rm">Rм</string>
+    <string name="input_xm">Хм</string>
+    <string name="result_button">Розрахувати</string>
+    <string name="second_fragment_label">Вибір кабелів</string>
+    <string name="third_fragment_label">Розрахунок струму Кз на шинах</string>
+    <string name="fourth_fragment_label">Розрахунок струму КЗ для підстації ХПнЕМ</string>
+
+</resources>
