@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="p">Середньодобова потужність</string>
+    <string name="q1">Початкове середньоквадратичне відхилення</string>
+    <string name="q2">Удосконалене середньоквадратичне відхилення</string>
+    <string name="B">Вартість електроенергії</string>
+    <string name="calculate">Розрахувати</string>
+</resources>
